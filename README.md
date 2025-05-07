@@ -14,7 +14,7 @@ I'm a passionate web developer currently pursuing a Web Development degree at **
 - **Other**: Responsive Design, Agile Workflow, Unit Testing with Jest and Python `unittest`
 
 ## 📫 Let's Connect
-- Email: [your-email@example.com]
+- Email: [zchrisman19@yahoo.com]
 - LinkedIn: [linkedin.com/in/zack-chrisman]((https://www.linkedin.com/in/zack-chrisman/))
 - Portfolio: Coming Soon!
 
