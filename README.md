@@ -16,7 +16,7 @@ I'm a passionate web developer currently pursuing a Web Development degree at **
 ## 📫 Let's Connect
 - Email: [zchrisman19@yahoo.com]
 - LinkedIn: [https://www.linkedin.com/in/zack-chrisman/]
-- Portfolio: [zchrismandev.netlify.app/]
+- Portfolio: [https://zchrismandev.netlify.app]
 
 ---
 
